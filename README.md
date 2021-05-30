@@ -1,1 +1,1 @@
-# Redux_CRUD
+React js, Redux, Rest API
